@@ -148,11 +148,11 @@ blockquote {
 	z-index: 2;
 }
 .subfooter {
-	background-color: #DA095F;
+	background-color: #000000;
 	padding: 40px 0;
 }
 .subfooter a {
-color: #FF89BA;
+color: #000000;
 }
 .section {
 	background-color: #ffffff;
@@ -897,7 +897,6 @@ border-radius: 50%;
 
 .demo-bg{
 	background: #9fe3e6;
-	margin-top: 60px;
 	}
 	.business-hours {
 	background: #222; 
@@ -909,7 +908,7 @@ border-radius: 50%;
 	content: '';
 	width: 23px;
 	height: 23px;
-	background: #111;
+	background: rgb(0, 0, 0);
 	position: absolute;
 	top: 5px;
 	left: -12px;
@@ -926,7 +925,7 @@ border-radius: 50%;
 	.business-hours li {
 	color: #888;
 	line-height: 30px;
-	border-bottom: 1px solid #333; 
+	border-bottom: 1px solid rgb(0, 0, 0); 
 	}
 	.business-hours li:last-child {
 	border-bottom: none; 
